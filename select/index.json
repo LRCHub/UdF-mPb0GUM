@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "金木犀（feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音レン）",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2025-12-14T11:33:30.671317Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "金木犀 (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音レン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/pl_01_金木犀_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音レン)_Vivid_BAD_SQUAD.txt"
+    }
+  ]
+}
